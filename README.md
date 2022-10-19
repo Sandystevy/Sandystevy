@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C and React js
 - 🤝 I’m looking for internship opportunities to gain more expereince with projects and to be a better Software Engineer
 - 💞️ Collaborating on project is also on my todo list, especially the type that will challenge me, as well as improve my skills
-- 📫 You can contact me on @sandrastevedappa@gmail.com
+- 📫 You can contact me on @sandrastevedappa@gmail.com 
